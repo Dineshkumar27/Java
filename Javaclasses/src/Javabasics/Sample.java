@@ -4,7 +4,9 @@ public class Sample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("Welcome to java");
+        int a=10;
+        int b=20;
+        System.out.println("Add="+(a+b));
 	}
 
 }
